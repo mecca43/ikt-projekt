@@ -1,1 +1,1 @@
-teljesen új verzió dsadf
+teljesen új verzió 
