@@ -1,1 +1,2 @@
-teljesen új verzió szabi
+teljesen új verzió bence fasfgfhsa
+ffsafef
