@@ -1,2 +1,1 @@
-Lucky kávézó
-A legjobb kávé
+Lucky kávézó, a legjobb kávé
