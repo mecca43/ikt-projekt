@@ -5,6 +5,7 @@ body {
 nav{
     background-color: #1f5b25;
     padding: 15px;
+    position: fixed;
 }
 
 nav a{
@@ -29,4 +30,5 @@ nav a:first-child img{
     background-image: url(../img/hatter.jpg);
     background-position: center center;
     background-size: cover;
+    height: 400px;
 }
