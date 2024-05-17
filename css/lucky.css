@@ -58,3 +58,7 @@ h1{
     margin-bottom: 1rem;
     font-variant: small-caps;
 }
+#napiajanlat{
+    width: 40px;
+    position: absolute;
+}
